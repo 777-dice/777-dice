@@ -9,8 +9,8 @@ var config = {
   app_name: '777 Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
-  redirect_uri: 'https://777-dice.github.io',
+  recaptcha_sitekey: '6LcMcxwTAAAAAGIHJ_RL_KSH-2IXxw3n8DS3sDV1',  // <----- EDIT ME!
+  redirect_uri: 'https://bitthedice.herokuapp.com/',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
